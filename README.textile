@@ -1,0 +1,3 @@
+h2. WWU Classfinder POST to GET Greasemonkey Script
+
+This Greasemonkey script converts the POST to a GET for Western Washington University Classfinder search
